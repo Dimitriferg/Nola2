@@ -1,0 +1,70 @@
+h1 {
+  color: gold;
+  text-align: center;
+  font-size: 12px;
+}
+
+body {
+  background: purple;
+}
+
+.container {
+  color: goldenrod;
+}
+
+.main {
+  background-color: purple;
+}
+
+img {
+  height: 150px;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  border: #7fff7f;
+  padding: -35px;
+  margin: -125px;
+}
+
+.col-md-2 {
+  border: solid;
+  border-spacing: inherit;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  height: -1000px;
+  margin: 50px;
+  color: azure;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.row {
+  margin: 250px;
+  padding-left: -500px;
+}
+
+.container-fluid {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 475px;
+  height: 150px;
+  padding: 80px;
+  margin: 25px;
+}
+
+.pic {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border: inset;
+  opacity: 5px;
+}
+/*# sourceMappingURL=style.css.map */
