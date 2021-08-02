@@ -1,0 +1,59 @@
+$textcolor: gold;
+
+h1 {
+  color: $textcolor;
+  text-align: center;
+  font-size: 12px;
+}
+
+body {
+  background: purple;
+}
+
+.container {
+  color: goldenrod;
+}
+
+.main {
+  background-color: purple;
+}
+
+img {
+  height: 150px;
+  align-items: flex-start;
+  border: invert($color: purple);
+  padding: -35px;
+  margin: -125px;
+}
+
+.col-md-2 {
+  border: solid;
+  border-spacing: inherit;
+  align-content: center;
+  height: -1000px;
+  margin: 50px;
+  color: azure;
+  align-items: center;
+}
+
+.row {
+  margin: 250px;
+  padding-left: -500px;
+}
+
+.container-fluid {
+  align-items: center;
+  justify-content: center;
+
+  width: 475px;
+  height: 150px;
+  padding: 80px;
+  margin: 25px;
+}
+
+.pic {
+  justify-content: center;
+  align-items: center;
+  border: inset;
+  opacity: 5px;
+}
