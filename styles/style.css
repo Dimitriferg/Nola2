@@ -67,4 +67,17 @@ img {
   border: inset;
   opacity: 5px;
 }
+
+.col-md-3 {
+  border: solid;
+  border-spacing: inherit;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  height: -1500px;
+  margin: 50px;
+  color: azure;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
 /*# sourceMappingURL=style.css.map */
